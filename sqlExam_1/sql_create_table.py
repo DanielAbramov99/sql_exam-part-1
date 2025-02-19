@@ -1,6 +1,6 @@
 # א:
 # CREATE TABLE laptop_store(
-# id INTEGER  PRIMARY KEY,
+# id INTEGER  PRIMARY KEY AUTOINCREMENT,
 # serial_number INTEGER UNIQUE NOT NULL,
 # brand TEXT NOT NULL,
 # model TEXT NOT NULL,
